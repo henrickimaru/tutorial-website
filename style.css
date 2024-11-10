@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+    
+    header {
+      
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+    }
+    
+    header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display:inline-flex;
+   
+    }
+    
+    header nav ul li button {
+    margin-right: 20px;
+    cursor: pointer;
+   
+    
+    }
+    
+    header nav a {
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    }
+
+    
+    
+    main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 50px;
+    
+   
+    }
+
+        
+     
+    
+    
+   
+  
+    
+    h1, h2, h3 {
+    color: #333;
+    }
+    
+    button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    }
+    
+    button:hover {
+    background-color: #444;
+
+    
+    }
+    
+    .tutorial-content {
+    display: none;
+    
+    }
+    #javascript{
+       
+            background-color: #ffe6e6;
+            padding: 3em;
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(88, 72, 72, 0.1);
+            border-radius: 20px ;
+
+    }
+    #html{
+       
+            background-color: #ffe6e6;
+            padding: 3em;
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(70, 57, 57, 0.1);
+            margin-left: 15em;
+            border-radius: 20px ;
+    }
+   #css  {
+        background-color: #ffe6e6;
+        padding: 3em;
+        margin-bottom: 20px;
+        box-shadow: 0 0 10px rgba(88, 72, 72, 0.1);
+        margin: 3em;
+        border-radius: 20px ;
+     
+   }
+
+   footer{
+    margin: 10em;
+    text-align: right;
+    margin-right: 3em;
+   }
+
+  
+    
+
+    
+   
